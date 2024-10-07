@@ -1,0 +1,51 @@
+Nombre;PrimerApellido;SegundoApellido;RUT;Genero;FechaNacimiento;Correo;Numero;Region;Comuna
+Miguel;Perez;Ramos;10556177-2;Femenino;"""01-04-1996""";miguel.perez@example.com;9827161851;Antofagasta;Antofagasta
+Miguel;Garcia;Torres;29764040-2;Masculino;"""13-06-1993""";miguel.garcia@example.com;9140002464;Coquimbo;Illapel
+Luis;Gomez;Suarez;20195841-1;Masculino;"""03-07-1964""";luis.gomez@example.com;9101752440;Magallanes;Primavera
+Juan;Perez;Ortiz;18819520-0;Masculino;"""25-05-1995""";juan.perez@example.com;9188816168;Arica y Parinacota;Camarones
+Carlos;Gomez;Suarez;27129665-4;Femenino;"""22-03-1983""";carlos.gomez@example.com;9382024589;Coquimbo;Illapel
+Juan;Vega;Castro;16437289-0;Femenino;"""07-06-1984""";juan.vega@example.com;9347869337;Coquimbo;Coquimbo
+Luis;Garcia;Hernandez;17910429-0;Masculino;"""14-07-1968""";luis.garcia@example.com;9944562422;Los Lagos;Ancud
+Carlos;Vega;Ortiz;13734577-7;Femenino;"""01-05-1986""";carlos.vega@example.com;9909864384;Aysen;Puerto Aysen
+Carlos;Morales;Ramirez;23509627-6;Masculino;"""04-04-1991""";carlos.morales@example.com;9189247753;Aysen;Tortel
+Miguel;Martinez;Suarez;22935400-6;Masculino;"""27-03-1972""";miguel.martinez@example.com;9428921796;Metropolitana;Las Condes
+Pedro;Lopez;Ramos;19585402-1;Femenino;"""13-01-1977""";pedro.lopez@example.com;9613157294;Maule;Parral
+Carlos;Perez;Ramirez;15488926-9;Femenino;"""12-02-1986""";carlos.perez@example.com;9537465815;Aysen;Cochrane
+Carlos;Perez;Torres;11817850-4;Masculino;"""17-02-1987""";carlos.perez@example.com;9950421701;Atacama;Copiapo
+Pedro;Diaz;Hernandez;28611440-2;Femenino;"""23-09-1983""";pedro.diaz@example.com;9596036441;Tarapaca;Huara
+Laura;Morales;Ortiz;12335312-4;Masculino;"""13-11-1999""";laura.morales@example.com;9824392357;Atacama;Diego de Almagro
+Sofia;Sanchez;Mendoza;29047661-4;Masculino;"""19-11-1976""";sofia.sanchez@example.com;9401588281;Biobio;Los Angeles
+Ana;Lopez;Suarez;27370747-3;Femenino;"""05-07-1968""";ana.lopez@example.com;9981409788;Arica y Parinacota;General Lagos
+Pedro;Lopez;Ramirez;20263503-0;Masculino;"""14-10-1992""";pedro.lopez@example.com;9316287352;OHiggins;Rancagua
+Ana;Martinez;Rodriguez;15501594-9;Masculino;"""26-10-1995""";ana.martinez@example.com;9910629029;Metropolitana;Puente Alto
+Elena;Sanchez;Hernandez;23571837-5;Femenino;"""17-06-1976""";elena.sanchez@example.com;9753647551;Los Lagos;Ancud
+Maria;Martinez;Ramos;28247745-4;Masculino;"""17-10-1993""";maria.martinez@example.com;9152057281;Metropolitana;Las Condes
+Laura;Vega;Ortiz;25023750-1;Femenino;"""07-02-1968""";laura.vega@example.com;9390850314;Los Rios;Valdivia
+Sofia;Fernandez;Castro;14808916-5;Masculino;"""03-03-1979""";sofia.fernandez@example.com;9583535274;Los Rios;Valdivia
+Maria;Morales;Mendoza;20701557-3;Femenino;"""04-01-1977""";maria.morales@example.com;9897384833;Atacama;Tierra Amarilla
+Elena;Sanchez;Suarez;26759573-3;Femenino;"""19-09-1975""";elena.sanchez@example.com;9972325592;Maule;Cauquenes
+Carlos;Diaz;Hernandez;22030549-4;Masculino;"""08-07-2004""";carlos.diaz@example.com;9390733355;Biobio;Concepcion
+Carlos;Martinez;Suarez;19684826-7;Masculino;"""04-04-1974""";carlos.martinez@example.com;9994093006;Nuble;Chillan
+Elena;Sanchez;Ortiz;28981130-4;Femenino;"""05-12-1972""";elena.sanchez@example.com;9487118046;Magallanes;Primavera
+Juan;Vega;Ramirez;28928996-0;Masculino;"""25-01-1983""";juan.vega@example.com;9448630697;Maule;Linares
+Elena;Fernandez;Suarez;21491452-9;Masculino;"""28-04-1969""";elena.fernandez@example.com;9124444556;Magallanes;Cabo de Hornos
+Laura;Gomez;Mendoza;23802023-0;Femenino;"""21-03-1975""";laura.gomez@example.com;9598853702;Tarapaca;Huara
+Laura;Vega;Ramos;11555185-6;Femenino;"""11-12-1967""";laura.vega@example.com;9930497656;Los Lagos;Osorno
+Pedro;Perez;Ramos;12375399-3;Masculino;"""25-01-1981""";pedro.perez@example.com;9606822619;Los Lagos;Castro
+Laura;Vega;Ramos;17501420-2;Masculino;"""01-05-1986""";laura.vega@example.com;9381201940;Aysen;Cochrane
+Laura;Vega;Castro;16375782-6;Femenino;"""08-06-1992""";laura.vega@example.com;9853816013;Aysen;Chile Chico
+Ana;Perez;Hernandez;17629284-4;Femenino;"""12-04-1992""";ana.perez@example.com;9470540963;Nuble;San Carlos
+Ana;Lopez;Suarez;19937735-3;Femenino;"""07-02-1999""";ana.lopez@example.com;9347030861;Nuble;Bulnes
+Carlos;Fernandez;Castro;18523400-9;Femenino;"""13-01-2004""";carlos.fernandez@example.com;9940167489;Coquimbo;Ovalle
+Laura;Perez;Suarez;29766744-5;Femenino;"""18-02-1987""";laura.perez@example.com;9627608004;Los Rios;Paillaco
+Sofia;Perez;Mendoza;29102500-0;Masculino;"""18-02-1966""";sofia.perez@example.com;9925679490;OHiggins;San Fernando
+Miguel;Vega;Silva;20463987-0;Masculino;"""15-10-1974""";miguel.vega@example.com;9397896089;Nuble;Bulnes
+Juan;Gomez;Silva;27483685-0;Femenino;"""26-11-1997""";juan.gomez@example.com;9532402173;Araucania;Pucon
+Laura;Lopez;Hernandez;20119802-7;Femenino;"""20-02-1982""";laura.lopez@example.com;9762770878;Los Lagos;Castro
+Miguel;Perez;Hernandez;23024031-1;Masculino;"""22-06-1968""";miguel.perez@example.com;9410756363;Biobio;Los Angeles
+Carlos;Gomez;Rodriguez;28819211-5;Femenino;"""24-02-2000""";carlos.gomez@example.com;9462225205;Antofagasta;Antofagasta
+Sofia;Diaz;Silva;28459754-4;Femenino;"""20-07-1991""";sofia.diaz@example.com;9169167807;Valparaiso;San Antonio
+Luis;Gomez;Castro;16782279-7;Femenino;"""13-10-2003""";luis.gomez@example.com;9270840892;Aysen;Chile Chico
+Pedro;Morales;Hernandez;23324459-2;Femenino;"""08-12-1988""";pedro.morales@example.com;9117330840;Coquimbo;Illapel
+Juan;Garcia;Suarez;24202819-4;Femenino;"""22-09-1982""";juan.garcia@example.com;9509796928;Nuble;San Carlos
+Luis;Garcia;Ramirez;19496779-1;Masculino;"""20-11-1979""";luis.garcia@example.com;9232527904;Aysen;Coyhaique
